@@ -1,10 +1,10 @@
-## The challenge
+## O desafio
 
-Your challenge is to build out this 3-column preview card component and get it looking as close to the design as possible.
+Seu desafio é construir este componente de cartão de visualização de 3 colunas e fazê-lo parecer o mais próximo possível do design.
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+Você pode usar qualquer ferramenta que desejar para ajudá-lo a completar o desafio. Então, se você tem algo que gostaria de praticar, sinta-se à vontade para tentar.
 
-Your users should be able to:
+Seus usuários devem ser capazes de:
 
-- View the optimal layout depending on their device's screen size
-- See hover states for interactive elements
+- Visualize o layout ideal dependendo do tamanho da tela do dispositivo
+- Veja os estados de foco para elementos interativos
